@@ -1,0 +1,16 @@
+h2 {
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 40px;
+}
+
+.box-it {
+    width: 300px;
+    border: 2px solid gray;
+    padding: 20px;
+    margin: 10px;
+}
+
+.search {
+    padding: 10px;
+}
